@@ -11,7 +11,7 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
           <li>
-              <img src="{$sitelogo}" alt="{$sitename}">
+              <div id="header"><h1 id="site-logo"><a href="{$WWWROOT}"><img src="{$sitelogo}" alt="{$sitename}"></a></h1>
             </li>
             
           
